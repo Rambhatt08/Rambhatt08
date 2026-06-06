@@ -19,21 +19,21 @@
 
 ## 🌱 Currently Learning:
 
-Data Analytics
-Machine Learning Fundamentals
-Generative AI
+Data Analytics,
+Machine Learning Fundamentals,
+Generative AI,
 Advanced Java Programming
 
 ## 🔨 Working on:
 
-Data Analytics Projects
-AI-Powered Applications
+Data Analytics Projects,
+AI-Powered Applications,
 Full-Stack Web Development
 
 ## 🎯 Goal:
 
-Become a skilled Data Analyst
-Build real-world software solutions
+Become a skilled Data Analyst,
+Build real-world software solutions,
 Contribute to open-source projects
 
 ---
