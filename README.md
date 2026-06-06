@@ -115,9 +115,6 @@ Contribute to open-source projects
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rambhatt08&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
-</p>
 
 <p align="center">
   <em>💻 Web Developer • 🤖 Machine Learning Enthusiast • 🚀 Problem Solver</em>
