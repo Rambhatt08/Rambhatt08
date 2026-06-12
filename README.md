@@ -21,7 +21,7 @@
 
 Data Analytics,
 Machine Learning Fundamentals,
-Generative AI,
+Generative AI
 
 ## 🔨 Working on:
 
