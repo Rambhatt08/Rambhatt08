@@ -22,7 +22,6 @@
 Data Analytics,
 Machine Learning Fundamentals,
 Generative AI,
-Advanced Java Programming
 
 ## 🔨 Working on:
 
