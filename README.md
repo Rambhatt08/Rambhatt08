@@ -86,17 +86,7 @@ Contribute to open-source projects
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rambhatt08&theme=tokyonight" height="140" alt="Top Languages" />
 </p>
 
----
 
-## 🗓️ Commit Activity
-
-*A visual map of my daily coding journey and contributions.*
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rambhatt08&theme=tokyo-night&hide_border=true" alt="Bhatt Ram Github Activity Graph" width="800" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 
