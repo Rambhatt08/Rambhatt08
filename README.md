@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#7aa2f7;">Ram Bhatt</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Web+Developer;PHP+%26+Java+Dev;Machine+Learning+Enthusiast;Problem+Solver" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Web+Developer;AI+Enthusiast;Problem+Solver" alt="Typing Animation" />
 </p>
 
 <p align="center">
