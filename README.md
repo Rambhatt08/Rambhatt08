@@ -93,7 +93,7 @@ Contribute to open-source projects
 *A visual map of my daily coding journey and contributions.*
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rambhatt08&theme=tokyo-night&hide_border=true" alt="Patel Riya's Github Activity Graph" width="800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rambhatt08&theme=tokyo-night&hide_border=true" alt="Bhatt Ram Github Activity Graph" width="800" />
 </p>
 
 ---
